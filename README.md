@@ -6,3 +6,9 @@ ubuntu20 for termux
 - cd ubuntu20
 - chmod +x ubuntu20.sh
 - ./ubuntu20.sh
+
+# How To Start Ubuntu
+- cd ..
+- cd ubuntu-in-termux
+- ./startubuntu.sh
+
